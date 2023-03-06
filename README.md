@@ -6,3 +6,4 @@ TANDEMLOOP UI UX interview task
 ![A](https://user-images.githubusercontent.com/127116189/223218869-21d8a5d1-064d-4581-96da-fccd33d9e7cd.png)
 ![B](https://user-images.githubusercontent.com/127116189/223218904-e46ee7c0-a839-406c-b9b9-a024a7ae8b74.png)
 ![C](https://user-images.githubusercontent.com/127116189/223218925-c05c9481-88f3-426f-96f0-40e68821a703.png)
+Tool used is Figma
